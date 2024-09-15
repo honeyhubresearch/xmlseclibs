@@ -1,0 +1,8 @@
+{
+  "name": "pouet/xmlseclabs",
+  "autoload": {
+    "psr-4": {
+      "Pouet\\XmlSecLibs\\": "src/"
+    }
+  }
+}
